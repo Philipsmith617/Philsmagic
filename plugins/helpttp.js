@@ -35,7 +35,7 @@ const eng = `💠🧩 ● *Custom TTP List* ● 🧩💠\n▬▬▬▬▬▬▬�
 `⚙️Command: *.ttpelec*\nℹ️Description: Electrical text sticker. _[Sinhala font supported]_\n\n` + 
 `⚙️Command: *.ttphigh*\nℹ️Description: Animated highlight text sticker. _[Sinhala font supported]_\n\n` + 
 `⚙️Command: *.ttpmem*\nℹ️Description: Animated red text sticker. _[Sinhala font supported]_\n\n` + 
-`Check official website : https://www.amdaniwasa.com/`
+`Check official website : https://chat.whatsapp.com/HKWDIBNYUwc1nq80gzu3HN/`
 
 if (Config.LANG == 'EN') {
     if (Config.WORKTYPE == 'private') {
