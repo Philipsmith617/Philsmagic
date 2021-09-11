@@ -3,7 +3,7 @@
 Licensed under the  GPL-3.0 License;
 you may not use this file except in compliance with the License.
 
-Queen Amdi - Black Amda
+
 */
 
 const Amdi = require('../events');
@@ -15,7 +15,7 @@ let LOL = Config.WORKTYPE == 'public' ? false : true
 
 const Language = require('../language');
 const Lang = Language.getString('_amdi');
-const dmenu = "💠📃 ●QUEEN AMDI PANEL● 📃💠\n\n"
+const dmenu = "💠📃 *bot made by Philip Smith contact +2348159983206* ●✨Philsmagic Panel● 📃💠\n\n"
 
 
 Amdi.applyCMD({pattern: Config.MENU + '?(.*)', fromMe: LOL, dontAddCommandList: true, deleteCommand: false,}, (async (message, match) => {
@@ -56,7 +56,7 @@ Amdi.applyCMD({pattern: Config.MENU + '?(.*)', fromMe: LOL, dontAddCommandList: 
         );
         
         await message.client.sendMessage(message.jid, amdi, MessageType.audio, {mimetype: 'audio/mp4', ptt:true}, {quoted: message.data})
-        await message.client.sendMessage(message.jid, '⚍⚍⚍⚍⚍⚍⚍⚍⚍⚍⚍⚍⚍⚍⚍⚍⚍⚍\n' + ' ```⚕️⛨ QUEEN AMDI PANEL ⛨⚕️```\n' + '⚎⚎⚎⚎⚎⚎⚎⚎⚎⚎⚎⚎⚎⚎⚎⚎⚎⚎\n' + CMD_HELP, MessageType.text, {quoted: message.data});
+        await message.client.sendMessage(message.jid, '⚍⚍⚍⚍⚍⚍⚍⚍⚍⚍⚍⚍⚍⚍⚍⚍⚍⚍\n' + ' ```⚕️⛨ ✨Philsmagic✨ PANEL, *bot made by Philip Smith* ⛨⚕️```\n' + '⚎⚎⚎⚎⚎⚎⚎⚎⚎⚎⚎⚎⚎⚎⚎⚎⚎⚎\n' + CMD_HELP, MessageType.text, {quoted: message.data});
         
     } else {
 
