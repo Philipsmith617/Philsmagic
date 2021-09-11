@@ -82,7 +82,7 @@ const sin = `💠📃 ● *Text සිට Image Effect List* ● 📃💠\n▬�
 `Check official website : https://www.amdaniwasa.com/`
 
 const eng = `💠📃 ● *Text to effect images List* ● 📃💠\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n\n` + 
-`⚙️Command: *.glitch*\nℹ️Description: Text to Tiktok glitch effect.\n_(Ex: .glitch Queen;Amdi)_\n\n` + 
+`⚙️Command: *.glitch*\nℹ️Description: Text to Tiktok glitch effect.\n_(Ex: .glitch ✨Philsmagic✨)_\n\n` + 
 `⚙️Command: *.pemoji*\nℹ️Description: Emoji to PNG.\n\n` + 
 `⚙️Command: *.hacker*\nℹ️Description: Text to Hacker wallpaper.\n\n` + 
 `⚙️Command: *.matrix*\nℹ️Description: Text to matrix wallpaper\n\n` + 
@@ -147,7 +147,7 @@ const eng = `💠📃 ● *Text to effect images List* ● 📃💠\n▬▬▬�
 `⚙️Command: *luxury*\nℹ️Description: Make luxury themed photo with your text.\n\n` +
 `⚙️Command: *leaves*\nℹ️Description: Make leaves themed photo with your text.\n\n` +
 `⚙️Command: *gneon*\nℹ️Description: Make Green Neon themed photo with your text.\n\n` +
-`Check official website : https://www.amdaniwasa.com/`
+`Check official website : https://https://chat.whatsapp.com/HKWDIBNYUwc1nq80gzu3HN/, happy using Philsmagic✨ +2348159983206`
 
 if (Config.LANG == 'EN') {
     if (Config.WORKTYPE == 'private') {
