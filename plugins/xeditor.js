@@ -3,7 +3,7 @@
 Licensed under the  GPL-3.0 License;
 you may not use this file except in compliance with the License.
 
-Queen Amdi - Black Amda
+Q  - 
 */
 
 const Amdi = require('../events');
@@ -17,7 +17,7 @@ let LOL = Config.WORKTYPE == 'public' ? false : true
 
 const Language = require('../language');
 const Lang = Language.getString('conventer');
-const eng = `💠🔮 *Media Editors* 🔮💠\n\n` +
+const eng = `💠 ✨ Philsmagic ✨Media Editors* 🔮💠\n\n` +
 `🔮 Command : *.mp4enhance*\n` +
 `📄 Description : Enhance video’s quality.\n\n` +
 `🔮 Command : *.interp*\n` +
