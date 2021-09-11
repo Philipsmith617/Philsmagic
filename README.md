@@ -21,7 +21,7 @@
   <a href="https://github.com/Philipsmith6175/Philsmagic"><img alt="GitHub Clones" src="https://img.shields.io/badge/dynamic/json?style=flat-square&label=Docker pulls&query=count&url=https://github.com/agentnox/8gh32jk565/blob/main/automated_repo.json?raw=True&logo=github"></a>
   
   </a>
-  <a href="https://github.com/Philipsmith6175/Philsmagic">
+  <a href="https://github.com/BlackAmda/QueenAmdi">
     <img src="https://img.shields.io/docker/image-size/fusuf/whatsasena?style=flat-square&logo=github&label=Image Size">
     
   </a>
@@ -91,7 +91,7 @@ QR Code generator and full instructions available there.
   <img src=https://www.linkpicture.com/q/Koladhino.jpg>
  https://github.com/Philipsmith6175/Philsmagic |  
 ----|
-[Its_me_✨Philsmagic✨](https://github.com/Koladhino)  |
+[Its_me_✨Philsmagic✨] |
 Base, Bug Fixes, Modules | 
   
 
