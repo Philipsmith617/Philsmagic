@@ -58,6 +58,9 @@
   <a href="httsp://github.com/BlackAmda/QueenAmdi">
     <img src="https://img.shields.io/static/v1?label=Author&message=Black%20Amda&color=purple&style=plastic">
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Philipsmith6175/Philsmagic)
+     </div>
+
   </a>
   </p>
  <p align="center">
