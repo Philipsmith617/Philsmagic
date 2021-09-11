@@ -62,7 +62,7 @@
         "CAP": {
             "description": "Set your caption under medias.",
             "required": true,
-            "value": "ᴳᵉⁿᵉʳᵃᵗᵉᵈ ᴮʸ Qᵘᵉᵉⁿ ᴬᵐᵈᶦ₂₀₂₁"
+            "value": "✨ Philsmagic ✨"
         },
         "IMGBB": {
             "description": "Paste your imgbb API to change ALIVE,Welcome,Bye pictures by a command. (Visit https://imgbb.com/ and signup there. And get an API key from https://api.imgbb.com/)",
@@ -131,7 +131,7 @@
         "ALIVE_MESSAGE": {
             "description": "The message you get when you check whether the bot is online or not. This is not necessarily the case.",
             "required": false,
-            "value": "default"
+            "value": "I am alive, codesld by Philip Smith"
         },
         "BAN_MESSAGE": {
             "description": "The message you get when someone commands you as .ban and removes it. If you do not want to change this message, type default.",
