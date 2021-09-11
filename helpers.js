@@ -1,11 +1,11 @@
 function successfullMessage(msg) {
-    return "✅ *QueenAmdi*:  ```" + msg + "```"
+    return "✅ *Philsmagic*:  ```" + msg + "```"
 }
 function errorMessage(msg) {
-    return "🛑 *QueenAmdi*:  ```" + msg + "```"
+    return "🛑 *Philsmagic*:  ```" + msg + "```"
 }
 function infoMessage(msg) {
-    return "• *QueenAmdi :*  ```" + msg + "```"
+    return "• *Philsmagic :*  ```" + msg + "```"
 }
 
 
