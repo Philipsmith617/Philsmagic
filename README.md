@@ -62,7 +62,7 @@
   </p>
  <p align="center">
   <a href="https://wa.me/2348159983206">
-    <img src="https://img.shields.io/badge/Contact%20Me%20On%20Whatsapp-Queen%20Amdi%20Bot-purple&style=plastic">
+    <img src="https://img.shields.io/badge/Contact%20Me%20On%20Whatsapp-Philip%20Smith%20Bot-purple&style=plastic">
 
   </a>
 </p>
