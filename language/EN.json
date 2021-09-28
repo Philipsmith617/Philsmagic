@@ -275,7 +275,7 @@
         "updater": {
             "UPDATER_DESC": "Check for updates.",
             "UPDATE": "*✨Philsmagic✨ bot is completely updated!✅*",
-            "NEW_UPDATE": "*Philsmagic✨ bot have some updates! Please ask support group before updating otherwise bot may have error! https://chat.whatsapp.com/HKWDIBNYUwc1nq80gzu3HN* *\nType *.update now*\n\nChanges:\n```",
+            "NEW_UPDATE": "*Philsmagic✨ bot have some updates! Please ask support group before updating otherwise bot may have error! https://chat.whatsapp.com/BzHIOupGLR53IACsSQHzZk *\nType *.update now*\n\nChanges:\n```",
             "UPDATE_NOW_DESC": "Updating your bot",
             "UPDATING": "_Updating...🔄_",
             "INVALID_HEROKU": "*❌ Your HEROKU_API_KEY wrong! Visit https://dashboard.heroku.com/account . Scroll down to API key. Click reveal buttong. Copy that API key and paste it in HEROKU_API_KEY config vars.*",
