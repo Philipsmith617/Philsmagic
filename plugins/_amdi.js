@@ -10,12 +10,12 @@ const Amdi = require('../events');
 const Config = require('../config');
 const {MessageType} = require('@adiwajshing/baileys');
 const fs = require("fs")
-const amdi = fs.readFileSync('./media/amdibot.mp3')  
+const amdi = fs.readFileSync('./media/alive.mp3')  
 let LOL = Config.WORKTYPE == 'public' ? false : true
 
 const Language = require('../language');
 const Lang = Language.getString('_amdi');
-const dmenu = "💠📃 *bot made by Philip Smith contact +2348159983206* ●✨Philsmagic Panel● 📃💠\n\n"
+const dmenu = "💠📃 bot made by Philip Smith contact +2348159983206 ●✨Philsmagic Panel● 📃💠\n\n"
 
 
 Amdi.applyCMD({pattern: Config.MENU + '?(.*)', fromMe: LOL, dontAddCommandList: true, deleteCommand: false,}, (async (message, match) => {
