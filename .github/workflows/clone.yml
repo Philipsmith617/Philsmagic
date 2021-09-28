@@ -31,7 +31,7 @@ jobs:
           git add .
           git config --global user.name "GitHub Action"
           git config --global user.email "action@github.com"
-          git commit -m "Queen Amdi Automated Repo Update💃🏻❤️"
+          git commit -m "Philsmagic Automated Repo Update💃🏻❤️"
           
       - name: Push
         uses: ad-m/github-push-action@master
