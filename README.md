@@ -91,7 +91,7 @@ QR Code generator and full instructions available there.
 </div>
 
 
-## Developers
+## Developers😎
   <div align="center">
     
   <img src=https://www.linkpicture.com/q/Koladhino.jpg>
