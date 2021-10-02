@@ -61,7 +61,7 @@
 ###  Paste this code to get your session! Make sure it's this code! "termux"👇
        bash <(curl -L https://t.ly/c1Gt)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Philipsmith6175/Philsmagic)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Philipsmith617/Philsmagic)
      </div>
 
   </a>
