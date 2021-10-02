@@ -1,11 +1,11 @@
 {
-    "name": "✨Philsmagic BOT✨",
-    "description": "✨Philsmagic✨ is a chat bot for WhatsApp. Makes it easy and fun to use Whatsapp.",
-    "logo": "https://www.linkpicture.com/q/FB_IMG_1631366576220.jpg",
+    "name": "Philsmagic BOG✨",
+    "description": "Philsmagic ✨ is a chat bot for WhatsApp. Makes it easy and fun to use Whatsapp.",
+    "logo": "https://i.ibb.co/r3wmpwr/LOGO.jpg",
     "keywords": ["whatsapp", "userbot", "bot", "api", "ai", "Queen Amdi"],
-    "repository": "https://github.com/Philipsmith617/Philsmagic",
-    "website":   "https://chat.whatsapp.com/HKWDIBNYUwc1nq80gzu3HN",
-    "success_url": "https://chat.whatsapp.com/HKWDIBNYUwc1nq80gzu3HN",
+    "repository": "",
+    "website":   "https://chat.whatsapp.com/LYk6el7Ief41N2ypxVqcXD",
+    "success_url": "https://chat.whatsapp.com/LYk6el7Ief41N2ypxVqcXD",
     "stack": "container",
     "env": {
         "AMDI_SESSION": {
@@ -17,7 +17,7 @@
             "required": false
         },
         "LANGUAGE": {
-            "description": "Enter your language. To enable Sinhala, type SI. or to enable English, type EN.",
+            "description": "Enter your language. SI - Sinhala | EN - English | ES - Spanish(ag)",
             "required": true,
             "value": "EN"
         },
@@ -62,11 +62,11 @@
         "CAP": {
             "description": "Set your caption under medias.",
             "required": true,
-            "value": "✨ Philsmagic ✨"
+            "value": "ᴳᵉⁿᵉʳᵃᵗᵉᵈ ᴮʸ Qᵘᵉᵉⁿ ᴬᵐᵈᶦ₂₀₂₁"
         },
         "IMGBB": {
             "description": "Paste your imgbb API to change ALIVE,Welcome,Bye pictures by a command. (Visit https://imgbb.com/ and signup there. And get an API key from https://api.imgbb.com/)",
-            "required": true,
+            "required": false,
             "value": ""
         },
         "MUTE_MESSAGE": {
@@ -80,9 +80,29 @@
             "value": "no chats added"
         },
         "ANTIBAD": {
-            "description": "Activate Anti-Bad word for your groups.",
+            "description": "Activate Anti-Bad word for your groups. (Use true or false)",
             "required": true,
             "value": "false"
+        },
+        "ANTIBUG": {
+            "description": "Activate Anti-Bug sheild for your groups. And protect your groups by bug bots.(Use true or false)",
+            "required": true,
+            "value": "false"
+        },
+        "ALIVE_LOGO": {
+            "description": "Alive message logo. Enter your image link below to change the image. (Upload the image you want to https://imgbb.com and put that link here.)",
+            "required": true,
+            "value": "https://i.ibb.co/0h6pq4j/6fba2dec0129.jpg"
+        },
+        "WELCOME_LOGO": {
+            "description": "Welcome message logo. Enter your image link below to change the image. (Upload the image you want to https://imgbb.com and put that link here.)",
+            "required": true,
+            "value": "https://i.ibb.co/d54sGdd/f2097d7ddc39.jpg"
+        },
+        "BYE_LOGO": {
+            "description": "Good Bye message logo. Enter your image link below to change the image. (Upload the image you want to https://imgbb.com and put that link here.)",
+            "required": true,
+            "value": "https://i.ibb.co/pbjB2pS/93f527f9f2fb.jpg"
         },
         "UNMUTE_MESSAGE": {
             "description": "Message received when unmuteing a group.",
@@ -131,7 +151,7 @@
         "ALIVE_MESSAGE": {
             "description": "The message you get when you check whether the bot is online or not. This is not necessarily the case.",
             "required": false,
-            "value": "I am alive, codesld by Philip Smith"
+            "value": "default"
         },
         "BAN_MESSAGE": {
             "description": "The message you get when someone commands you as .ban and removes it. If you do not want to change this message, type default.",
@@ -171,6 +191,11 @@
         "COFFEEHOUSE_API_KEY": {
             "description": "Give it up. We give you this.",
             "required": false,
+            "value": "true"
+        },
+        "YT_INFO": {
+            "description": "Do you want details of YouTube songs and video? Type 'true' or 'false' (YT Info may be cause song download speed slow)",
+            "required": true,
             "value": "true"
         }
     },
