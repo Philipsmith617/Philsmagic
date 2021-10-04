@@ -4,12 +4,12 @@
     "logo": "https://i.ibb.co/r3wmpwr/LOGO.jpg",
     "keywords": ["whatsapp", "userbot", "bot", "api", "ai", "Queen Amdi"],
     "repository": "",
-    "website":   "https://chat.whatsapp.com/LYk6el7Ief41N2ypxVqcXD",
-    "success_url": "https://chat.whatsapp.com/LYk6el7Ief41N2ypxVqcXD",
+    "website":   "https://chat.whatsapp.com/BzHIOupGLR53IACsSQHzZk",
+    "success_url": "https://chat.whatsapp.com/BzHIOupGLR53IACsSQHzZk",
     "stack": "container",
     "env": {
         "AMDI_SESSION": {
-            "description": "Paste your QR session that you got from https://replit.com/@BlackAmda/Queen-Amdi-QR-Code.",
+            "description": "Paste your QR session that you got from termux or QR-Code.",
             "required": true
         },
         "SUDO": {
@@ -62,7 +62,7 @@
         "CAP": {
             "description": "Set your caption under medias.",
             "required": true,
-            "value": "ᴳᵉⁿᵉʳᵃᵗᵉᵈ ᴮʸ Qᵘᵉᵉⁿ ᴬᵐᵈᶦ₂₀₂₁"
+            "value": "✨Philsmagic bot by Philip Smith✨"
         },
         "IMGBB": {
             "description": "Paste your imgbb API to change ALIVE,Welcome,Bye pictures by a command. (Visit https://imgbb.com/ and signup there. And get an API key from https://api.imgbb.com/)",
@@ -92,17 +92,17 @@
         "ALIVE_LOGO": {
             "description": "Alive message logo. Enter your image link below to change the image. (Upload the image you want to https://imgbb.com and put that link here.)",
             "required": true,
-            "value": "https://i.ibb.co/0h6pq4j/6fba2dec0129.jpg"
+            "value": "https://www.linkpicture.com/q/IMG-20211004-WA0005.png"
         },
         "WELCOME_LOGO": {
             "description": "Welcome message logo. Enter your image link below to change the image. (Upload the image you want to https://imgbb.com and put that link here.)",
             "required": true,
-            "value": "https://i.ibb.co/d54sGdd/f2097d7ddc39.jpg"
+            "value": "https://www.linkpicture.com/q/IMG-20211004-WA0005.png"
         },
         "BYE_LOGO": {
             "description": "Good Bye message logo. Enter your image link below to change the image. (Upload the image you want to https://imgbb.com and put that link here.)",
             "required": true,
-            "value": "https://i.ibb.co/pbjB2pS/93f527f9f2fb.jpg"
+            "value": "https://www.linkpicture.com/q/IMG-20211004-WA0005.png"
         },
         "UNMUTE_MESSAGE": {
             "description": "Message received when unmuteing a group.",
@@ -132,7 +132,7 @@
         "PANEL_EMOJI": {
             "description": "You can change panel emojis. (Make sure to split emojis with / )",
             "required": true,
-            "value": "📘/📖"
+            "value": "✨/✨"
         },
         "DEBUG": {
             "description": "If you do not know this. Give it up.",
@@ -140,9 +140,9 @@
             "value": "false"
         },
         "MENU": {
-            "description": "Customizeable commands list request command. Keep panel if you don't want to change.",
+            "description": "Customizeable commands list request command. Keep philsmagic if you don't want to change.",
             "required": true,
-            "value": "panel"
+            "value": "philsmagic"
         },
         "REMOVE_BG_API_KEY": {
             "description": "Here you go to the website remove.bg and sign up and get an API key. Leave the API key in this space.",
